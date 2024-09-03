@@ -21,17 +21,18 @@ Follow these steps to set up and compile the project on your local machine:
 1. **Clone the Repository:**
 
    git clone https://github.com/DavronR/cpp-todo-list.git
+   
    cd cpp-todo-list
 
-2. Install the Required Tools:
+3. Install the Required Tools:
 
    Ensure you have g++ installed. If not, install MinGW on Windows or GCC on Linux.
 
-3. Compile the Application:
+4. Compile the Application:
 
    g++ src/*.cpp -o build/todo
 
-4. Run the Application:
+5. Run the Application:
 
    ./build/todo
 
